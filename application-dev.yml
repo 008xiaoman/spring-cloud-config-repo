@@ -1,6 +1,6 @@
 spring:
     application:
-        name: spring-cloud-client-ribbon
+        name: spring-cloud-client-ribbon1
 server:
     port: 9091
 logging:
