@@ -1,4 +1,4 @@
 # 应用级别的一些参数配置，服务启动后支持动态更新
 
 local: 
-  variable: defg
+  variable: defg-v1.0.0
